@@ -1,2 +1,2 @@
 # Axion_Data_ChangE_NMR
-The full limits result files from ChangE_NMR experiment
+The data pertaining to axion-nucleon coupling limits from ChangE-NMR.
